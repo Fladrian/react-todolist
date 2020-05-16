@@ -19,6 +19,11 @@ function App() {
       id: 3,
       title: 'Learn Redux',
       description: 'Learn manage the state con react on the store'
+    },
+    {
+      id: 4,
+      title: 'Learn vue',
+      description: 'Learn progressive framework'
     }
   ])
   const [addTodos, setAddTodos] = useState({})
